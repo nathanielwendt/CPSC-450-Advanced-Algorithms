@@ -3,7 +3,7 @@ from an input file in4.dat.  The convex hull is printed out as pairs of points t
 each line segment.
 
 @pre program must be run in the command line
-@pre in4.dat must be filled with points separated by newline characters
+@pre in5.dat must be filled with points separated by newline characters
 @file prog4.cpp
 @author Nathaniel Wendt (nwendt)
 @date 3/04/2013
